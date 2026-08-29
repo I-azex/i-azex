@@ -49,9 +49,9 @@ Python • Backend Development • Databases • APIs
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-azex&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://ghstats.dev/api?username=i-azex&theme=dark&hide_border=true&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-azex&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://ghstats.dev/api/top-langs?username=i-azex&theme=dark&hide_border=true&layout=compact)
 
 ---
 
