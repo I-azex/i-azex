@@ -29,9 +29,12 @@
 **Изучаю:**
 - HTML
 - CSS
+- SQLAlchemy
+- BeautifulSoup4
+- python-telegram-bot
 
 **Currently learning:**
-Python • Backend Development • Databases
+Python • Backend Development • Databases • APIs
 
 ---
 
@@ -56,12 +59,10 @@ Python • Backend Development • Databases
 
 ## 🚀 Featured Projects
 
-Здесь постепенно будут появляться мои лучшие проекты.
-
-- 🤖 **Telegram Bot** — *coming soon*
-- ⚙️ **Automation Tools** — *coming soon*
-- 📊 **Data Processing** — *coming soon*
-- 🐍 **Python Projects** — *coming soon*
+- 🤖 **[Telegram Order Bot](https://github.com/I-azex/telegram-order-bot)** — бот для приёма заявок с диалогами и админ-панелью
+- 🤖 **[Telegram Bot Advanced](https://github.com/I-azex/telegram-bot-advanced)** — продвинутый бот с SQLite/PostgreSQL, SQLAlchemy, управлением статусами
+- ⚙️ **[Python Shopping List](https://github.com/I-azex/python-shopping-list)** — консольный список покупок с сохранением в файл
+- 📊 **[Web Scraper](https://github.com/I-azex/web-scraper)** — CLI парсер ссылок, изображений, таблиц в JSON/CSV
 
 ---
 
